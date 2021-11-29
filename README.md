@@ -42,5 +42,5 @@ pip install zpretty
 After installing zpretty simply run the following command:
 
 ```bash
-zpretty -I alice.xml bob.xml
+zpretty -i alice.xml bob.xml
 ```
